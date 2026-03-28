@@ -1,7 +1,7 @@
 
 
 
-# Wanderblog
+## 🚀 3-Tier Application Deployment on AWS EKS using ArgoCD (GitOps)
 
 ![alt text](image.png)
 
