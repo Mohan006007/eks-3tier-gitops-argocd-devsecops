@@ -19,7 +19,7 @@ iam:
 
 managedNodeGroups:
   - name: wanderblog-node-group
-    instanceType: t2.medium
+    instanceType: c7i-flex.large
     minSize: 2
     maxSize: 2
     privateNetworking: true
